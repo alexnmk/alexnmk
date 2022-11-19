@@ -3,20 +3,20 @@ I am a Business Intelligence graduate and work as a software developer. I am cur
 
 ### Key Programming Skills
 <ul>
-  <li>HTML, CSS, JavaScript<li/>
+  <li>HTML, CSS, JavaScript</li>
   <li>SQL, UNIX</li>
   <li>Python, C++, Java</li>
 </ul>
 
 ### Frontend Frameworks and Tools
 <ul>
-  <li>Angular, React<li/>
+  <li>Angular, React</li>
   <li>BootStrap, styled-components, tailwindcss, Sass</li>
 </ul>
 
 ### Backend Frameworks and Tools
 <ul>
-  <li>MongoDb, MySQL<li/>
+  <li>MongoDb, MySQL</li>
   <li>Node.js, Express.js, Firebase, Axios</li>
 </ul>
 
